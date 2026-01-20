@@ -115,7 +115,7 @@ if ($current_time < $start_time) {
     <div class="container">
         <div align="center">
             <img src="./images/logo.jpeg" style="width: 10%" />
-            <h2>Pengumuman TKA</h2> <!--Pengumuman Kelulusan-->
+            <h2>Pengumuman TKA 123456</h2> <!--Pengumuman Kelulusan-->
 
             <?php if (isset($_REQUEST["submit"])) {
                 $nisn = $_REQUEST["nomor"];
