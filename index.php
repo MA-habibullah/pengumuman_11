@@ -73,7 +73,7 @@ if ($current_time < $start_time) {
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Pengumuman</title> <!--Pengumuman Kelulusan-->
+    <title>Pengumuman TKA 2025</title> <!--Pengumuman Kelulusan-->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/jasny-bootstrap.min.css" rel="stylesheet">
     <link href="css/kelulusan.css" rel="stylesheet">
